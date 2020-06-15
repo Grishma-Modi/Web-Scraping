@@ -3,7 +3,9 @@ Imagine you have to pull a large amount of data from websites and you want to do
 manually going to each website and getting the data? Well, “Web Scraping” is the answer. Web Scraping just makes this job easier and 
 faster. 
 
+
 Why Web Scraping?
+
 Web scraping is used to collect large information from websites. But why does someone have to collect such large data from websites? To 
 know about this, let’s look at the applications of web scraping:
 
